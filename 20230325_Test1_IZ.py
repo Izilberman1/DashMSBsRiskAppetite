@@ -1,5 +1,5 @@
 #-------------------------------------------------------
-mapbox_access_token = 'pk.eyJ1IjoiaXppbGJlcm1hbjEiLCJhIjoiY2xmbjd6aWgzMDJoaDN4a2J1ejB2cTdydyJ9.W5eaVVuig5kK7jz4_xeAzQ'
+mapbox_access_token = 'NotForYou'
 
 import pandas as pd
 import numpy as np
